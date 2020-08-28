@@ -1,6 +1,6 @@
-## Your Name
+## Louis Kirkham
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Having spent nearly 20 years working as an accountant and daydreaming about programs to automate my repetitive tasks, I am now writing different programs that are much cooler.
 
 ## Projects
 
@@ -11,54 +11,42 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+#### Makers Academy 
 
-- Any experience relevent to software development
+I studied at Makers Academy from September 2020 - December 2020.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+Makers Academy is a selective London based boot camp turning novices into hireable software developers. With a focus on learning skills over learning a specific programming language graduates are ideally equipped with an adaptability that is essential in the ever changing world we live in.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Problem Solving
 
-#### This Skill
+More of a hobby than a skill, I constantly seek out problems to solve and thrive on the positive satisfaction from success. Cryptic crosswords, escape rooms, puzzle games and competitive board games are all regular exercises where I utilise and enjoy problem solving.
 
-- Experience
-- Achievements
-- Evidence
+#### Professionalism
 
-#### Another Skill
+Working in a professional client facing environment for over 15 years I have demonstrated the following:
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Attention to detail - it was important to make sure the numbers go in the right order on a tax return
+- Teamwork - working together to meet tough deadlines during tax season
+- Communication - explaining to clients that the fact they have spent all their profit is not proof they do not earn enough to pay tax
+- Management - running a small office when the owner decided to live in another country with better weather
+- Training - feeding years of bad habits to impressionable newcomers
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2020 - December 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Irrelevant qualifications
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+MAAT - Association of Accounting Technicians
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I like being active and swim regularly as well as playing league cricket and hockey.
+I am learning to play drums, but I resist the temptation to be a desk drummer.
