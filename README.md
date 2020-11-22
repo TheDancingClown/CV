@@ -1,13 +1,14 @@
 ## Louis Kirkham
 
-Having spent nearly 20 years working as an accountant and daydreaming about programs to automate my repetitive tasks, I am now writing different programs that are much cooler.
+Having spent nearly 20 years working as an accountant while daydreaming about writing programs to automate my repetitive tasks, I made the career move in 2020 to an industry that closer aligns to my personal interests. 
 
-## Projects
+## Team Projects at Makers Academy
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Tech/tools        | Description                  |
+| ---------------------------- | ----------------- | ---------------------------- |
+| **[Signposts](https://github.com/TheDancingClown/signposts)** | Swift, ARKit, Firebase | Weeks 11&12 - An iOS mobile app to place and discover useful messages in AR |
+| **[~~Face~~maskbook](https://github.com/TheDancingClown/Croc-My-World)** | Ruby on Rails, PostgreSQL | Weeks 8&9 - A social media clone web app          |
+| **[Bear BnB](https://github.com/TheDancingClown/BearBnB)** | Ruby, Sinatra, HTML, CSS | Week 6 - A reservations clone web app |
 
 ## Experience
 
@@ -35,7 +36,7 @@ Working in a professional client facing environment for over 15 years I have dem
 
 ## Education
 
-#### Makers Academy (September 2020 - December 2020)
+#### Makers Academy (September 2020 - November 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -50,4 +51,4 @@ MAAT - Association of Accounting Technicians
 
 I like being active and swim regularly as well as playing league cricket and hockey.
 
-I am learning to play drums, but I resist the temptation to be a desk drummer.
+I am learning to play drums with zero aspiration to be in a band.
